@@ -1,5 +1,6 @@
 # Porjet_Scrapping
 Description:
+
 Ce projet a pour objectif de scrapper des sites web pour récupérer des données d'articles, telles que les titres, catégories, vues, et autres informations pertinentes. Les données sont ensuite traitées, combinées et analysées pour produire des rapports de performance des sites.
 
 Structure du projet
@@ -22,9 +23,12 @@ Les fichiers issus du scraping sont fusionnés dans un fichier de sortie final p
 Analyse et rapport :
 Des analyses sont réalisées sur les données pour produire des rapports sur la performance des sites, avec des visualisations des métriques clés comme le nombre d'articles, les vues quotidiennes, et la performance par catégorie.
 
-Prérequis
+Prérequis: 
+
 Python 3.x
-Bibliothèques Python : BeautifulSoup, Pandas, Requests, Matplotlib, Seaborn, Power BI
+
+Bibliothèques Python : 
+BeautifulSoup, Pandas, Requests, Matplotlib, Seaborn, Power BI
 Git pour le contrôle de version
 
 
