@@ -40,6 +40,9 @@ else:
         # Concaténer tous les DataFrames en un seul
         combined_df = pd.concat(dataframes, ignore_index=True)
         
+        # Ajouter une colonne 'Id' pour numéroter chaque ligne
+        combined_df['Id'] = range(1, len(combined_df) + 1)
+        
         # Définir le chemin du fichier de sortie
         output_file = os.path.join(folder_path, 'resultat_scraping.xlsx')
         
