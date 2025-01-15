@@ -1,5 +1,5 @@
 # Porjet_Scrapping
-Description
+Description:
 Ce projet a pour objectif de scrapper des sites web pour récupérer des données d'articles, telles que les titres, catégories, vues, et autres informations pertinentes. Les données sont ensuite traitées, combinées et analysées pour produire des rapports de performance des sites.
 
 Structure du projet
